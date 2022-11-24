@@ -1,1 +1,6 @@
 dataset
+test.py
+2-gram-permuterms.json
+3-gram-permuterms.json
+positional_index.json
+query_vector.json

@@ -1,7 +1,6 @@
-word = [1, 2, 3]
+from nltk.stem import PorterStemmer
 
-vectors = [4, 5, 6, 7]
+ps = PorterStemmer()
 
-for values in zip(word, vectors):
-    a, b = values
-    print(values)
+
+print(ps.stem('blended'))
