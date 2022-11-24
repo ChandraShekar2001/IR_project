@@ -1,0 +1,1551 @@
+{
+    "12": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            }
+        }
+    },
+    "8": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            }
+        }
+    },
+    "21": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    4,
+                    14,
+                    62
+                ]
+            }
+        }
+    },
+    "blended": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 5,
+                "positions": [
+                    5,
+                    10,
+                    30,
+                    37,
+                    87
+                ]
+            }
+        }
+    },
+    "advanced": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    6,
+                    33
+                ]
+            }
+        }
+    },
+    "asic": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    7,
+                    34,
+                    73
+                ]
+            }
+        }
+    },
+    "verification": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 4,
+                "positions": [
+                    8,
+                    35,
+                    74,
+                    123
+                ]
+            }
+        }
+    },
+    "course": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 5,
+                "positions": [
+                    9,
+                    36,
+                    90,
+                    173,
+                    186
+                ]
+            }
+        }
+    },
+    "vlsi": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 10,
+                "positions": [
+                    11,
+                    27,
+                    38,
+                    48,
+                    88,
+                    117,
+                    145,
+                    150,
+                    158,
+                    208
+                ]
+            }
+        }
+    },
+    "vm": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    12,
+                    39,
+                    89
+                ]
+            }
+        }
+    },
+    "dec": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    13,
+                    61
+                ]
+            }
+        }
+    },
+    "bangalore": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    15
+                ]
+            }
+        }
+    },
+    "qr": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    16
+                ]
+            }
+        }
+    },
+    "code": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    17
+                ]
+            }
+        }
+    },
+    "link": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            }
+        }
+    },
+    "to": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    19,
+                    110,
+                    140
+                ]
+            }
+        }
+    },
+    "this": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    20,
+                    86
+                ]
+            }
+        }
+    },
+    "post": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    21
+                ]
+            }
+        }
+    },
+    "build": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    22
+                ]
+            }
+        }
+    },
+    "your": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    23,
+                    142,
+                    167
+                ]
+            }
+        }
+    },
+    "career": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    24,
+                    143
+                ]
+            }
+        }
+    },
+    "prospects": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    25
+                ]
+            }
+        }
+    },
+    "in": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 4,
+                "positions": [
+                    26,
+                    51,
+                    115,
+                    144
+                ]
+            }
+        }
+    },
+    "industry": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 4,
+                "positions": [
+                    28,
+                    131,
+                    146,
+                    189
+                ]
+            }
+        }
+    },
+    "with": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 4,
+                "positions": [
+                    29,
+                    104,
+                    126,
+                    148
+                ]
+            }
+        }
+    },
+    "job": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    31
+                ]
+            }
+        }
+    },
+    "oriented": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    32
+                ]
+            }
+        }
+    },
+    "from": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    40
+                ]
+            }
+        }
+    },
+    "maven": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    41,
+                    70
+                ]
+            }
+        }
+    },
+    "silicon": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    42,
+                    71
+                ]
+            }
+        }
+    },
+    "one": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    43
+                ]
+            }
+        }
+    },
+    "of": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 5,
+                "positions": [
+                    44,
+                    108,
+                    130,
+                    157,
+                    206
+                ]
+            }
+        }
+    },
+    "the": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    45,
+                    114,
+                    149
+                ]
+            }
+        }
+    },
+    "top": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    46
+                ]
+            }
+        }
+    },
+    "10": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    47
+                ]
+            }
+        }
+    },
+    "training": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    49,
+                    151
+                ]
+            }
+        }
+    },
+    "institutes": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    50
+                ]
+            }
+        }
+    },
+    "india": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    52
+                ]
+            }
+        }
+    },
+    "our": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    53
+                ]
+            }
+        }
+    },
+    "next": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    54
+                ]
+            }
+        }
+    },
+    "batch": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    55
+                ]
+            }
+        }
+    },
+    "is": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    56,
+                    91,
+                    137
+                ]
+            }
+        }
+    },
+    "starting": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    57
+                ]
+            }
+        }
+    },
+    "on": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    58,
+                    128,
+                    182
+                ]
+            }
+        }
+    },
+    "08": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    59
+                ]
+            }
+        }
+    },
+    "th": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    60
+                ]
+            }
+        }
+    },
+    "apply": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    63,
+                    77
+                ]
+            }
+        }
+    },
+    "now": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    64
+                ]
+            }
+        }
+    },
+    "for": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    65,
+                    94
+                ]
+            }
+        }
+    },
+    "special": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    66
+                ]
+            }
+        }
+    },
+    "discount": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    67
+                ]
+            }
+        }
+    },
+    "https": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    68
+                ]
+            }
+        }
+    },
+    "www": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    69
+                ]
+            }
+        }
+    },
+    "com": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    72
+                ]
+            }
+        }
+    },
+    "t": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    75
+                ]
+            }
+        }
+    },
+    "c": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    76
+                ]
+            }
+        }
+    },
+    "contact": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    78
+                ]
+            }
+        }
+    },
+    "us": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    79
+                ]
+            }
+        }
+    },
+    "91": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    80,
+                    83
+                ]
+            }
+        }
+    },
+    "95133": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    81
+                ]
+            }
+        }
+    },
+    "98555": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    82
+                ]
+            }
+        }
+    },
+    "97415": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    84
+                ]
+            }
+        }
+    },
+    "19977": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    85
+                ]
+            }
+        }
+    },
+    "specially": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    92
+                ]
+            }
+        }
+    },
+    "designed": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    93
+                ]
+            }
+        }
+    },
+    "electronics": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    95
+                ]
+            }
+        }
+    },
+    "electrical": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    96
+                ]
+            }
+        }
+    },
+    "engineering": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    97
+                ]
+            }
+        }
+    },
+    "pre": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    98
+                ]
+            }
+        }
+    },
+    "final": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    99,
+                    100
+                ]
+            }
+        }
+    },
+    "year": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    101
+                ]
+            }
+        }
+    },
+    "students": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    102
+                ]
+            }
+        }
+    },
+    "graduates": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    103
+                ]
+            }
+        }
+    },
+    "a": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    105,
+                    138,
+                    202
+                ]
+            }
+        }
+    },
+    "good": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    106
+                ]
+            }
+        }
+    },
+    "knowledge": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    107
+                ]
+            }
+        }
+    },
+    "verilog": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    109
+                ]
+            }
+        }
+    },
+    "learn": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    111
+                ]
+            }
+        }
+    },
+    "and": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    112
+                ]
+            }
+        }
+    },
+    "master": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    113
+                ]
+            }
+        }
+    },
+    "demand": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    116
+                ]
+            }
+        }
+    },
+    "skills": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    118
+                ]
+            }
+        }
+    },
+    "i.e.": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    119
+                ]
+            }
+        }
+    },
+    "systemverilog": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    120
+                ]
+            }
+        }
+    },
+    "assertion": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    121
+                ]
+            }
+        }
+    },
+    "based": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    122,
+                    134
+                ]
+            }
+        }
+    },
+    "sva": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    124
+                ]
+            }
+        }
+    },
+    "uvm": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    125
+                ]
+            }
+        }
+    },
+    "hands": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    127
+                ]
+            }
+        }
+    },
+    "experience": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    129
+                ]
+            }
+        }
+    },
+    "standard": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    132
+                ]
+            }
+        }
+    },
+    "protocol": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    133
+                ]
+            }
+        }
+    },
+    "projects": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    135,
+                    176
+                ]
+            }
+        }
+    },
+    "which": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    136,
+                    160
+                ]
+            }
+        }
+    },
+    "must": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    139
+                ]
+            }
+        }
+    },
+    "start": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    141
+                ]
+            }
+        }
+    },
+    "along": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    147
+                ]
+            }
+        }
+    },
+    "you": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    152
+                ]
+            }
+        }
+    },
+    "also": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    153
+                ]
+            }
+        }
+    },
+    "undergo": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    154
+                ]
+            }
+        }
+    },
+    "6": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    155,
+                    177,
+                    204
+                ]
+            }
+        }
+    },
+    "months": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 5,
+                "positions": [
+                    156,
+                    171,
+                    175,
+                    178,
+                    205
+                ]
+            }
+        }
+    },
+    "internship": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    159,
+                    179,
+                    209
+                ]
+            }
+        }
+    },
+    "can": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    161
+                ]
+            }
+        }
+    },
+    "be": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    162
+                ]
+            }
+        }
+    },
+    "online": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    163,
+                    172
+                ]
+            }
+        }
+    },
+    "offline": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    164
+                ]
+            }
+        }
+    },
+    "as": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    165
+                ]
+            }
+        }
+    },
+    "per": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    166
+                ]
+            }
+        }
+    },
+    "choice": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    168
+                ]
+            }
+        }
+    },
+    "duration": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    169
+                ]
+            }
+        }
+    },
+    "3": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    170
+                ]
+            }
+        }
+    },
+    "2": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    174
+                ]
+            }
+        }
+    },
+    "benefits": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    180
+                ]
+            }
+        }
+    },
+    "certificate": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    181
+                ]
+            }
+        }
+    },
+    "completion": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    183
+                ]
+            }
+        }
+    },
+    "placement": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    184
+                ]
+            }
+        }
+    },
+    "assistance": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    185
+                ]
+            }
+        }
+    },
+    "delivered": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    187
+                ]
+            }
+        }
+    },
+    "by": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    188
+                ]
+            }
+        }
+    },
+    "experts": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    190
+                ]
+            }
+        }
+    },
+    "24": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    191
+                ]
+            }
+        }
+    },
+    "7": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    192
+                ]
+            }
+        }
+    },
+    "lab": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    193
+                ]
+            }
+        }
+    },
+    "access": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    194
+                ]
+            }
+        }
+    },
+    "through": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    195
+                ]
+            }
+        }
+    },
+    "vpn": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    196
+                ]
+            }
+        }
+    },
+    "whatsapp": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    197
+                ]
+            }
+        }
+    },
+    "support": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    198
+                ]
+            }
+        }
+    },
+    "group": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    199
+                ]
+            }
+        }
+    },
+    "live": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    200
+                ]
+            }
+        }
+    },
+    "q": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    201
+                ]
+            }
+        }
+    },
+    "sessions": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    203
+                ]
+            }
+        }
+    },
+    "free": {
+        "document_frequency": 1,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    207
+                ]
+            }
+        }
+    }
+}
