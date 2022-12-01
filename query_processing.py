@@ -82,6 +82,8 @@ for word in query:
         if word in positional_index.keys():
             query_vector.append(word)
 
+print(permuterm_vector)
+
 try: 
     i = query_vector.index('#')
 except:
@@ -90,14 +92,11 @@ except:
 if i != -1:
     for word in permuterm_vector:
         query_vector[i] = word
-        print(query_vector)
-        permu_query_vector.append(query_vector)
-        print(permu_query_vector)
-        i += 1
+                
+        permu_query_vector[word] = (query_vector[:])
+
 else: 
-    # permu_query_vector.append(query_vector)
     permu_query_vector[0] = (query_vector)
-    print('hello')
             
 
 
@@ -105,4 +104,3 @@ with open('query_info.json', 'w', encoding='utf-8') as file:
     json.dump(permu_query_vector,file,indent=2)
     file.close()
 
-# print("Query Vector :", query_vector)
