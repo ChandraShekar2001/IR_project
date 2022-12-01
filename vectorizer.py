@@ -213,19 +213,6 @@ def get_similarity_coeff():
 
     # print(query_vectors["0"])
 
-
-    # for doc in doc_vectors.keys():
-    #     for query in query_vectors.keys():
-    #         # similarity_coefficients[doc] = {'query': query, 'similarity': cosine_similarity(query_vectors[query], doc_vectors[doc])}
-    #         # similarity_coefficients[doc].append({'query': query, 'similarity': cosine_similarity(query_vectors[query], doc_vectors[doc])})
-    #         if doc in similarity_coefficients.keys():
-    #             similarity_coefficients[doc]['queries'][query] = cosine_similarity(query_vectors[query], doc_vectors[doc])
-    #         else: 
-    #             similarity_coefficients[doc] = {
-    #                 'queries' : query,
-    #                 'similarity': cosine_similarity(query_vectors[query], doc_vectors[doc])
-    #             }
-
 # Current code -------------------------------------------------
     if len(query_vectors) == 1:
         for docId in doc_vectors.keys():
@@ -238,25 +225,16 @@ def get_similarity_coeff():
         sim_coeff_array['0'] = sim_coeff
     
     
-    # else:
-    #     for query in query_vectors.keys():
+    else:
+        for query in query_vectors.keys():
 
-    #         for docId in doc_vectors.keys():
-
-
+            for docId in doc_vectors.keys():
+                similarity_coefficients[str(docId)] = cosine_similarity(query_vectors[query], doc_vectors[docId])
+            
+            sim_coeff = sorted(similarity_coefficients.items(), key=lambda x:x[1], reverse=True)
         
-    # sim_coeff = []
+            sim_coeff_array[query] = sim_coeff[:]
 
-    # sim_coeff = {}
-
-
-    # for keys in similarity_coefficients.keys():
-    #     # sim_coeff.append((similarity_coefficients[keys], keys))
-    #     sim_coeff[keys]
-
-    # sim_coeff = sorted(sim_coeff, reverse=True)
-
-    # print(sim_coeff)
 
     with open('similarity_coefficients.json', 'w', encoding='utf-8') as file:
         json.dump(sim_coeff_array, file, indent=4)
