@@ -1,8 +1,64 @@
 {
     "12": {
-        "document_frequency": 1,
+        "document_frequency": 9,
         "documents": {
             "1": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            },
+            "10": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            },
+            "1000": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            },
+            "1002": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            },
+            "1003": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            },
+            "1004": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            },
+            "1005": {
+                "frequency": 2,
+                "positions": [
+                    1,
+                    3
+                ]
+            },
+            "1006": {
                 "frequency": 2,
                 "positions": [
                     1,
@@ -12,9 +68,15 @@
         }
     },
     "8": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     2
@@ -23,136 +85,405 @@
         }
     },
     "21": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 3,
                 "positions": [
                     4,
                     14,
-                    62
+                    50
+                ]
+            },
+            "1001": {
+                "frequency": 3,
+                "positions": [
+                    4,
+                    14,
+                    50
                 ]
             }
         }
     },
     "blended": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 5,
                 "positions": [
                     5,
                     10,
-                    30,
-                    37,
-                    87
+                    25,
+                    32,
+                    71
+                ]
+            },
+            "1001": {
+                "frequency": 5,
+                "positions": [
+                    5,
+                    10,
+                    25,
+                    32,
+                    71
                 ]
             }
         }
     },
     "advanced": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
                     6,
-                    33
+                    28
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    6,
+                    28
                 ]
             }
         }
     },
     "asic": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 3,
                 "positions": [
                     7,
+                    29,
+                    59
+                ]
+            },
+            "1001": {
+                "frequency": 3,
+                "positions": [
+                    7,
+                    29,
+                    59
+                ]
+            }
+        }
+    },
+    "verification": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 4,
+                "positions": [
+                    8,
+                    30,
+                    60,
+                    98
+                ]
+            },
+            "1001": {
+                "frequency": 4,
+                "positions": [
+                    8,
+                    30,
+                    60,
+                    98
+                ]
+            }
+        }
+    },
+    "course": {
+        "document_frequency": 7,
+        "documents": {
+            "1": {
+                "frequency": 5,
+                "positions": [
+                    9,
+                    31,
+                    74,
+                    130,
+                    142
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    12
+                ]
+            },
+            "1001": {
+                "frequency": 5,
+                "positions": [
+                    9,
+                    31,
+                    74,
+                    130,
+                    142
+                ]
+            },
+            "1002": {
+                "frequency": 4,
+                "positions": [
+                    9,
+                    19,
+                    40,
+                    65
+                ]
+            },
+            "1003": {
+                "frequency": 4,
+                "positions": [
+                    9,
+                    19,
+                    34,
+                    56
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    12
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    12
+                ]
+            }
+        }
+    },
+    "vlsi": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 10,
+                "positions": [
+                    11,
+                    23,
+                    33,
+                    40,
+                    72,
+                    92,
+                    111,
+                    114,
+                    120,
+                    160
+                ]
+            },
+            "1001": {
+                "frequency": 10,
+                "positions": [
+                    11,
+                    23,
+                    33,
+                    40,
+                    72,
+                    92,
+                    111,
+                    114,
+                    120,
+                    160
+                ]
+            }
+        }
+    },
+    "vm": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    12,
+                    34,
+                    73
+                ]
+            },
+            "1001": {
+                "frequency": 3,
+                "positions": [
+                    12,
                     34,
                     73
                 ]
             }
         }
     },
-    "verification": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 4,
-                "positions": [
-                    8,
-                    35,
-                    74,
-                    123
-                ]
-            }
-        }
-    },
-    "course": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 5,
-                "positions": [
-                    9,
-                    36,
-                    90,
-                    173,
-                    186
-                ]
-            }
-        }
-    },
-    "vlsi": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 10,
-                "positions": [
-                    11,
-                    27,
-                    38,
-                    48,
-                    88,
-                    117,
-                    145,
-                    150,
-                    158,
-                    208
-                ]
-            }
-        }
-    },
-    "vm": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 3,
-                "positions": [
-                    12,
-                    39,
-                    89
-                ]
-            }
-        }
-    },
     "dec": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
                     13,
-                    61
+                    49
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    13,
+                    49
                 ]
             }
         }
     },
     "bangalore": {
-        "document_frequency": 1,
+        "document_frequency": 4,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    15
+                ]
+            },
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    5
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    15
+                ]
+            },
+            "1003": {
+                "frequency": 4,
+                "positions": [
+                    10,
+                    20,
+                    35,
+                    57
+                ]
+            }
+        }
+    },
+    "qr": {
+        "document_frequency": 10,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    16
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    14
+                ]
+            },
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    6
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    14
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    16
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    11
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    11
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    14
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    14
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    14
+                ]
+            }
+        }
+    },
+    "code": {
+        "document_frequency": 10,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    17
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    15
+                ]
+            },
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    7
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    15
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    17
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    12
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    12
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    15
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    15
+                ]
+            },
+            "1006": {
                 "frequency": 1,
                 "positions": [
                     15
@@ -160,10 +491,64 @@
             }
         }
     },
-    "qr": {
-        "document_frequency": 1,
+    "link": {
+        "document_frequency": 10,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    16
+                ]
+            },
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    8
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    16
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    13
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    13
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    16
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    16
+                ]
+            },
+            "1006": {
                 "frequency": 1,
                 "positions": [
                     16
@@ -171,10 +556,64 @@
             }
         }
     },
-    "code": {
-        "document_frequency": 1,
+    "post": {
+        "document_frequency": 10,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    19
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    17
+                ]
+            },
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    9
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    17
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    19
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    14
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    14
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    17
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    17
+                ]
+            },
+            "1006": {
                 "frequency": 1,
                 "positions": [
                     17
@@ -182,57 +621,58 @@
             }
         }
     },
-    "link": {
-        "document_frequency": 1,
+    "build": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    18
+                    20
                 ]
-            }
-        }
-    },
-    "to": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 3,
+            },
+            "1001": {
+                "frequency": 1,
                 "positions": [
-                    19,
-                    110,
-                    140
+                    20
                 ]
             }
         }
     },
-    "this": {
-        "document_frequency": 1,
+    "career": {
+        "document_frequency": 3,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
-                    20,
-                    86
+                    21,
+                    110
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    21,
+                    110
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    23
                 ]
             }
         }
     },
-    "post": {
-        "document_frequency": 1,
+    "prospects": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    21
+                    22
                 ]
-            }
-        }
-    },
-    "build": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     22
@@ -240,35 +680,69 @@
             }
         }
     },
-    "your": {
-        "document_frequency": 1,
+    "industry": {
+        "document_frequency": 5,
         "documents": {
             "1": {
-                "frequency": 3,
-                "positions": [
-                    23,
-                    142,
-                    167
-                ]
-            }
-        }
-    },
-    "career": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 2,
+                "frequency": 4,
                 "positions": [
                     24,
-                    143
+                    103,
+                    112,
+                    144
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    26
+                ]
+            },
+            "1001": {
+                "frequency": 4,
+                "positions": [
+                    24,
+                    103,
+                    112,
+                    144
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    34
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    26
                 ]
             }
         }
     },
-    "prospects": {
-        "document_frequency": 1,
+    "job": {
+        "document_frequency": 4,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    26
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    26
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    39
+                ]
+            },
+            "1005": {
                 "frequency": 1,
                 "positions": [
                     25
@@ -276,109 +750,214 @@
             }
         }
     },
-    "in": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 4,
-                "positions": [
-                    26,
-                    51,
-                    115,
-                    144
-                ]
-            }
-        }
-    },
-    "industry": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 4,
-                "positions": [
-                    28,
-                    131,
-                    146,
-                    189
-                ]
-            }
-        }
-    },
-    "with": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 4,
-                "positions": [
-                    29,
-                    104,
-                    126,
-                    148
-                ]
-            }
-        }
-    },
-    "job": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    31
-                ]
-            }
-        }
-    },
     "oriented": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    32
+                    27
                 ]
-            }
-        }
-    },
-    "from": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
-                    40
+                    27
                 ]
             }
         }
     },
     "maven": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
-                    41,
-                    70
+                    35,
+                    56
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    35,
+                    56
                 ]
             }
         }
     },
     "silicon": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
-                    42,
-                    71
+                    36,
+                    57
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    36,
+                    57
                 ]
             }
         }
     },
     "one": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    37
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    37
+                ]
+            }
+        }
+    },
+    "top": {
+        "document_frequency": 3,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    38
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    38
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    33
+                ]
+            }
+        }
+    },
+    "10": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    39
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    39
+                ]
+            }
+        }
+    },
+    "training": {
+        "document_frequency": 9,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    41,
+                    115
+                ]
+            },
+            "10": {
+                "frequency": 3,
+                "positions": [
+                    8,
+                    12,
+                    23
+                ]
+            },
+            "1000": {
+                "frequency": 2,
+                "positions": [
+                    8,
+                    22
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    41,
+                    115
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    64
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    55
+                ]
+            },
+            "1004": {
+                "frequency": 3,
+                "positions": [
+                    8,
+                    12,
+                    23
+                ]
+            },
+            "1005": {
+                "frequency": 3,
+                "positions": [
+                    7,
+                    11,
+                    22
+                ]
+            },
+            "1006": {
+                "frequency": 2,
+                "positions": [
+                    8,
+                    22
+                ]
+            }
+        }
+    },
+    "institutes": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    42
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    42
+                ]
+            }
+        }
+    },
+    "india": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    43
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     43
@@ -386,38 +965,50 @@
             }
         }
     },
-    "of": {
-        "document_frequency": 1,
+    "next": {
+        "document_frequency": 2,
         "documents": {
             "1": {
-                "frequency": 5,
+                "frequency": 1,
                 "positions": [
-                    44,
-                    108,
-                    130,
-                    157,
-                    206
+                    44
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    44
                 ]
             }
         }
     },
-    "the": {
-        "document_frequency": 1,
+    "batch": {
+        "document_frequency": 2,
         "documents": {
             "1": {
-                "frequency": 3,
+                "frequency": 1,
                 "positions": [
-                    45,
-                    114,
-                    149
+                    45
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    45
                 ]
             }
         }
     },
-    "top": {
-        "document_frequency": 1,
+    "starting": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    46
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     46
@@ -425,10 +1016,16 @@
             }
         }
     },
-    "10": {
-        "document_frequency": 1,
+    "08": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    47
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     47
@@ -436,33 +1033,52 @@
             }
         }
     },
-    "training": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 2,
-                "positions": [
-                    49,
-                    151
-                ]
-            }
-        }
-    },
-    "institutes": {
-        "document_frequency": 1,
+    "th": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    50
+                    48
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    48
                 ]
             }
         }
     },
-    "india": {
-        "document_frequency": 1,
+    "apply": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 2,
+                "positions": [
+                    51,
+                    62
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    51,
+                    62
+                ]
+            }
+        }
+    },
+    "special": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    52
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     52
@@ -470,10 +1086,16 @@
             }
         }
     },
-    "our": {
-        "document_frequency": 1,
+    "discount": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    53
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     53
@@ -481,103 +1103,167 @@
             }
         }
     },
-    "next": {
-        "document_frequency": 1,
+    "https": {
+        "document_frequency": 4,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
                     54
                 ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    54
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    55
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    46
+                ]
             }
         }
     },
-    "batch": {
-        "document_frequency": 1,
+    "www": {
+        "document_frequency": 4,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
                     55
                 ]
-            }
-        }
-    },
-    "is": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 3,
+            },
+            "1001": {
+                "frequency": 1,
                 "positions": [
-                    56,
-                    91,
-                    137
+                    55
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    56
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    47
                 ]
             }
         }
     },
-    "starting": {
-        "document_frequency": 1,
+    "com": {
+        "document_frequency": 4,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    57
+                    58
                 ]
-            }
-        }
-    },
-    "on": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 3,
+            },
+            "1001": {
+                "frequency": 1,
                 "positions": [
-                    58,
-                    128,
-                    182
+                    58
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    58
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    49
                 ]
             }
         }
     },
-    "08": {
-        "document_frequency": 1,
+    "c": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    59
+                    61
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    61
                 ]
             }
         }
     },
-    "th": {
-        "document_frequency": 1,
+    "contact": {
+        "document_frequency": 7,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    60
+                    63
                 ]
-            }
-        }
-    },
-    "apply": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 2,
+            },
+            "10": {
+                "frequency": 1,
                 "positions": [
-                    63,
-                    77
+                    38
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    37
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    63
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    38
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    37
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    37
                 ]
             }
         }
     },
-    "now": {
-        "document_frequency": 1,
+    "us": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    64
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     64
@@ -585,22 +1271,35 @@
             }
         }
     },
-    "for": {
-        "document_frequency": 1,
+    "91": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
                     65,
-                    94
+                    68
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    65,
+                    68
                 ]
             }
         }
     },
-    "special": {
-        "document_frequency": 1,
+    "95133": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    66
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     66
@@ -608,10 +1307,16 @@
             }
         }
     },
-    "discount": {
-        "document_frequency": 1,
+    "98555": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    67
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     67
@@ -619,21 +1324,16 @@
             }
         }
     },
-    "https": {
-        "document_frequency": 1,
+    "97415": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    68
+                    69
                 ]
-            }
-        }
-    },
-    "www": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     69
@@ -641,21 +1341,33 @@
             }
         }
     },
-    "com": {
-        "document_frequency": 1,
+    "19977": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    72
+                    70
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    70
                 ]
             }
         }
     },
-    "t": {
-        "document_frequency": 1,
+    "specially": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    75
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     75
@@ -663,21 +1375,56 @@
             }
         }
     },
-    "c": {
-        "document_frequency": 1,
+    "designed": {
+        "document_frequency": 3,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
                     76
                 ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    76
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    27
+                ]
             }
         }
     },
-    "contact": {
-        "document_frequency": 1,
+    "electronics": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    77
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    77
+                ]
+            }
+        }
+    },
+    "electrical": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    78
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     78
@@ -685,10 +1432,16 @@
             }
         }
     },
-    "us": {
-        "document_frequency": 1,
+    "engineering": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    79
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     79
@@ -696,44 +1449,69 @@
             }
         }
     },
-    "91": {
-        "document_frequency": 1,
+    "pre": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    80
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    80
+                ]
+            }
+        }
+    },
+    "final": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
-                    80,
-                    83
+                    81,
+                    82
                 ]
-            }
-        }
-    },
-    "95133": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
+            },
+            "1001": {
+                "frequency": 2,
                 "positions": [
-                    81
-                ]
-            }
-        }
-    },
-    "98555": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
+                    81,
                     82
                 ]
             }
         }
     },
-    "97415": {
-        "document_frequency": 1,
+    "year": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    83
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    83
+                ]
+            }
+        }
+    },
+    "students": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    84
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     84
@@ -741,10 +1519,16 @@
             }
         }
     },
-    "19977": {
-        "document_frequency": 1,
+    "graduates": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    85
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     85
@@ -752,32 +1536,158 @@
             }
         }
     },
-    "specially": {
-        "document_frequency": 1,
+    "good": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    92
+                    86
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    86
                 ]
             }
         }
     },
-    "designed": {
-        "document_frequency": 1,
+    "knowledge": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    87
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    87
+                ]
+            }
+        }
+    },
+    "verilog": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    88
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    88
+                ]
+            }
+        }
+    },
+    "learn": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    89
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    89
+                ]
+            }
+        }
+    },
+    "master": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    90
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    90
+                ]
+            }
+        }
+    },
+    "demand": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    91
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    91
+                ]
+            }
+        }
+    },
+    "skills": {
+        "document_frequency": 3,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
                     93
                 ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    93
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    35
+                ]
             }
         }
     },
-    "electronics": {
-        "document_frequency": 1,
+    "i.e.": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    94
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    94
+                ]
+            }
+        }
+    },
+    "systemverilog": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    95
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     95
@@ -785,10 +1695,16 @@
             }
         }
     },
-    "electrical": {
-        "document_frequency": 1,
+    "assertion": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    96
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     96
@@ -796,44 +1712,69 @@
             }
         }
     },
-    "engineering": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    97
-                ]
-            }
-        }
-    },
-    "pre": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    98
-                ]
-            }
-        }
-    },
-    "final": {
-        "document_frequency": 1,
+    "based": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
-                    99,
+                    97,
+                    106
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    97,
+                    106
+                ]
+            }
+        }
+    },
+    "sva": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    99
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    99
+                ]
+            }
+        }
+    },
+    "uvm": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    100
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
                     100
                 ]
             }
         }
     },
-    "year": {
-        "document_frequency": 1,
+    "hands": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    101
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     101
@@ -841,10 +1782,16 @@
             }
         }
     },
-    "students": {
-        "document_frequency": 1,
+    "experience": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    102
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     102
@@ -852,56 +1799,86 @@
             }
         }
     },
-    "graduates": {
-        "document_frequency": 1,
+    "standard": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    103
+                    104
                 ]
-            }
-        }
-    },
-    "a": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 3,
+            },
+            "1001": {
+                "frequency": 1,
                 "positions": [
-                    105,
-                    138,
-                    202
+                    104
                 ]
             }
         }
     },
-    "good": {
-        "document_frequency": 1,
+    "protocol": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    106
+                    105
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    105
                 ]
             }
         }
     },
-    "knowledge": {
-        "document_frequency": 1,
+    "projects": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 2,
+                "positions": [
+                    107,
+                    133
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    107,
+                    133
+                ]
+            }
+        }
+    },
+    "must": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    107
+                    108
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    108
                 ]
             }
         }
     },
-    "verilog": {
-        "document_frequency": 1,
+    "start": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    109
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     109
@@ -909,32 +1886,16 @@
             }
         }
     },
-    "learn": {
-        "document_frequency": 1,
+    "along": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    111
+                    113
                 ]
-            }
-        }
-    },
-    "and": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    112
-                ]
-            }
-        }
-    },
-    "master": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     113
@@ -942,10 +1903,16 @@
             }
         }
     },
-    "demand": {
-        "document_frequency": 1,
+    "also": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    116
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     116
@@ -953,66 +1920,174 @@
             }
         }
     },
-    "skills": {
-        "document_frequency": 1,
+    "undergo": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    118
+                    117
                 ]
-            }
-        }
-    },
-    "i.e.": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
-                    119
+                    117
                 ]
             }
         }
     },
-    "systemverilog": {
-        "document_frequency": 1,
+    "6": {
+        "document_frequency": 2,
         "documents": {
             "1": {
-                "frequency": 1,
+                "frequency": 3,
                 "positions": [
-                    120
+                    118,
+                    134,
+                    157
+                ]
+            },
+            "1001": {
+                "frequency": 3,
+                "positions": [
+                    118,
+                    134,
+                    157
                 ]
             }
         }
     },
-    "assertion": {
-        "document_frequency": 1,
+    "months": {
+        "document_frequency": 2,
         "documents": {
             "1": {
-                "frequency": 1,
+                "frequency": 5,
                 "positions": [
-                    121
+                    119,
+                    128,
+                    132,
+                    135,
+                    158
+                ]
+            },
+            "1001": {
+                "frequency": 5,
+                "positions": [
+                    119,
+                    128,
+                    132,
+                    135,
+                    158
                 ]
             }
         }
     },
-    "based": {
-        "document_frequency": 1,
+    "internship": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 3,
+                "positions": [
+                    121,
+                    136,
+                    161
+                ]
+            },
+            "1001": {
+                "frequency": 3,
+                "positions": [
+                    121,
+                    136,
+                    161
+                ]
+            }
+        }
+    },
+    "online": {
+        "document_frequency": 7,
         "documents": {
             "1": {
                 "frequency": 2,
                 "positions": [
                     122,
-                    134
+                    129
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    29
+                ]
+            },
+            "1000": {
+                "frequency": 4,
+                "positions": [
+                    7,
+                    11,
+                    21,
+                    33
+                ]
+            },
+            "1001": {
+                "frequency": 2,
+                "positions": [
+                    122,
+                    129
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    29
+                ]
+            },
+            "1005": {
+                "frequency": 3,
+                "positions": [
+                    10,
+                    21,
+                    33
+                ]
+            },
+            "1006": {
+                "frequency": 4,
+                "positions": [
+                    7,
+                    11,
+                    21,
+                    33
                 ]
             }
         }
     },
-    "sva": {
-        "document_frequency": 1,
+    "offline": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    123
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    123
+                ]
+            }
+        }
+    },
+    "per": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    124
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     124
@@ -1020,10 +2095,16 @@
             }
         }
     },
-    "uvm": {
-        "document_frequency": 1,
+    "choice": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    125
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     125
@@ -1031,10 +2112,33 @@
             }
         }
     },
-    "hands": {
-        "document_frequency": 1,
+    "duration": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    126
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    126
+                ]
+            }
+        }
+    },
+    "3": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    127
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     127
@@ -1042,67 +2146,67 @@
             }
         }
     },
-    "experience": {
-        "document_frequency": 1,
+    "2": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    129
+                    131
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    131
                 ]
             }
         }
     },
-    "standard": {
-        "document_frequency": 1,
+    "benefits": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    132
+                    137
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    137
                 ]
             }
         }
     },
-    "protocol": {
-        "document_frequency": 1,
+    "certificate": {
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    133
+                    138
                 ]
-            }
-        }
-    },
-    "projects": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 2,
+            },
+            "1001": {
+                "frequency": 1,
                 "positions": [
-                    135,
-                    176
+                    138
                 ]
             }
         }
     },
-    "which": {
-        "document_frequency": 1,
+    "completion": {
+        "document_frequency": 2,
         "documents": {
             "1": {
-                "frequency": 2,
+                "frequency": 1,
                 "positions": [
-                    136,
-                    160
+                    139
                 ]
-            }
-        }
-    },
-    "must": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     139
@@ -1110,21 +2214,161 @@
             }
         }
     },
-    "start": {
-        "document_frequency": 1,
+    "placement": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    140
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    140
+                ]
+            }
+        }
+    },
+    "assistance": {
+        "document_frequency": 5,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
                     141
                 ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    31
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    141
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    26
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    31
+                ]
             }
         }
     },
-    "along": {
-        "document_frequency": 1,
+    "delivered": {
+        "document_frequency": 3,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    143
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    143
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    28
+                ]
+            }
+        }
+    },
+    "experts": {
+        "document_frequency": 7,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    145
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    27
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    24
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    145
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    29
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    27
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    24
+                ]
+            }
+        }
+    },
+    "24": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    146
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    146
+                ]
+            }
+        }
+    },
+    "7": {
+        "document_frequency": 3,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    147
+                ]
+            },
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    25
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     147
@@ -1132,10 +2376,114 @@
             }
         }
     },
-    "you": {
-        "document_frequency": 1,
+    "lab": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    148
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    148
+                ]
+            }
+        }
+    },
+    "access": {
+        "document_frequency": 7,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    149
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    35
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    27
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    149
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    35
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    29
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    27
+                ]
+            }
+        }
+    },
+    "vpn": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    150
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    150
+                ]
+            }
+        }
+    },
+    "whatsapp": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    151
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    151
+                ]
+            }
+        }
+    },
+    "support": {
+        "document_frequency": 2,
+        "documents": {
+            "1": {
+                "frequency": 1,
+                "positions": [
+                    152
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     152
@@ -1143,10 +2491,16 @@
             }
         }
     },
-    "also": {
-        "document_frequency": 1,
+    "group": {
+        "document_frequency": 2,
         "documents": {
             "1": {
+                "frequency": 1,
+                "positions": [
+                    153
+                ]
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
                     153
@@ -1154,396 +2508,1559 @@
             }
         }
     },
-    "undergo": {
-        "document_frequency": 1,
+    "live": {
+        "document_frequency": 7,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
                     154
                 ]
-            }
-        }
-    },
-    "6": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 3,
-                "positions": [
-                    155,
-                    177,
-                    204
-                ]
-            }
-        }
-    },
-    "months": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 5,
-                "positions": [
-                    156,
-                    171,
-                    175,
-                    178,
-                    205
-                ]
-            }
-        }
-    },
-    "internship": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 3,
-                "positions": [
-                    159,
-                    179,
-                    209
-                ]
-            }
-        }
-    },
-    "can": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "10": {
                 "frequency": 1,
                 "positions": [
-                    161
+                    28
                 ]
-            }
-        }
-    },
-    "be": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1000": {
                 "frequency": 1,
                 "positions": [
-                    162
+                    32
                 ]
-            }
-        }
-    },
-    "online": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 2,
-                "positions": [
-                    163,
-                    172
-                ]
-            }
-        }
-    },
-    "offline": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1001": {
                 "frequency": 1,
                 "positions": [
-                    164
+                    154
                 ]
-            }
-        }
-    },
-    "as": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1004": {
                 "frequency": 1,
                 "positions": [
-                    165
+                    28
                 ]
-            }
-        }
-    },
-    "per": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1005": {
                 "frequency": 1,
                 "positions": [
-                    166
+                    32
                 ]
-            }
-        }
-    },
-    "choice": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
+            },
+            "1006": {
                 "frequency": 1,
                 "positions": [
-                    168
-                ]
-            }
-        }
-    },
-    "duration": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    169
-                ]
-            }
-        }
-    },
-    "3": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    170
-                ]
-            }
-        }
-    },
-    "2": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    174
-                ]
-            }
-        }
-    },
-    "benefits": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    180
-                ]
-            }
-        }
-    },
-    "certificate": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    181
-                ]
-            }
-        }
-    },
-    "completion": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    183
-                ]
-            }
-        }
-    },
-    "placement": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    184
-                ]
-            }
-        }
-    },
-    "assistance": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    185
-                ]
-            }
-        }
-    },
-    "delivered": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    187
-                ]
-            }
-        }
-    },
-    "by": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    188
-                ]
-            }
-        }
-    },
-    "experts": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    190
-                ]
-            }
-        }
-    },
-    "24": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    191
-                ]
-            }
-        }
-    },
-    "7": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    192
-                ]
-            }
-        }
-    },
-    "lab": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    193
-                ]
-            }
-        }
-    },
-    "access": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    194
-                ]
-            }
-        }
-    },
-    "through": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    195
-                ]
-            }
-        }
-    },
-    "vpn": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    196
-                ]
-            }
-        }
-    },
-    "whatsapp": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    197
-                ]
-            }
-        }
-    },
-    "support": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    198
-                ]
-            }
-        }
-    },
-    "group": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    199
-                ]
-            }
-        }
-    },
-    "live": {
-        "document_frequency": 1,
-        "documents": {
-            "1": {
-                "frequency": 1,
-                "positions": [
-                    200
+                    32
                 ]
             }
         }
     },
     "q": {
-        "document_frequency": 1,
+        "document_frequency": 2,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    201
+                    155
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    155
                 ]
             }
         }
     },
     "sessions": {
-        "document_frequency": 1,
+        "document_frequency": 4,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    203
+                    156
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    32
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    156
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    32
                 ]
             }
         }
     },
     "free": {
-        "document_frequency": 1,
+        "document_frequency": 7,
         "documents": {
             "1": {
                 "frequency": 1,
                 "positions": [
-                    207
+                    159
+                ]
+            },
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    33
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    25
+                ]
+            },
+            "1001": {
+                "frequency": 1,
+                "positions": [
+                    159
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    33
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    27
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    25
+                ]
+            }
+        }
+    },
+    "16": {
+        "document_frequency": 5,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            }
+        }
+    },
+    "25": {
+        "document_frequency": 3,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    4
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    4
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    4
+                ]
+            }
+        }
+    },
+    "sap": {
+        "document_frequency": 5,
+        "documents": {
+            "10": {
+                "frequency": 3,
+                "positions": [
+                    5,
+                    9,
+                    20
+                ]
+            },
+            "1000": {
+                "frequency": 3,
+                "positions": [
+                    5,
+                    9,
+                    19
+                ]
+            },
+            "1004": {
+                "frequency": 3,
+                "positions": [
+                    5,
+                    9,
+                    20
+                ]
+            },
+            "1005": {
+                "frequency": 3,
+                "positions": [
+                    5,
+                    8,
+                    19
+                ]
+            },
+            "1006": {
+                "frequency": 3,
+                "positions": [
+                    5,
+                    9,
+                    19
+                ]
+            }
+        }
+    },
+    "pp": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 2,
+                "positions": [
+                    6,
+                    21
+                ]
+            },
+            "1004": {
+                "frequency": 2,
+                "positions": [
+                    6,
+                    21
+                ]
+            }
+        }
+    },
+    "module": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 2,
+                "positions": [
+                    7,
+                    22
+                ]
+            },
+            "1004": {
+                "frequency": 2,
+                "positions": [
+                    7,
+                    22
+                ]
+            }
+        }
+    },
+    "production": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    10
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    10
+                ]
+            }
+        }
+    },
+    "planning": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    11
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    11
+                ]
+            }
+        }
+    },
+    "hyderabad": {
+        "document_frequency": 6,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    13
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    13
+                ]
+            },
+            "1002": {
+                "frequency": 4,
+                "positions": [
+                    10,
+                    20,
+                    41,
+                    66
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    13
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    13
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    13
+                ]
+            }
+        }
+    },
+    "provide": {
+        "document_frequency": 3,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    37
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            }
+        }
+    },
+    "best": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    19
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    19
+                ]
+            }
+        }
+    },
+    "15": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    24
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    24
+                ]
+            }
+        }
+    },
+    "years": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    25
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    25
+                ]
+            }
+        }
+    },
+    "classess": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    30
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    30
+                ]
+            }
+        }
+    },
+    "recorded": {
+        "document_frequency": 2,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    31
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    31
+                ]
+            }
+        }
+    },
+    "server": {
+        "document_frequency": 5,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    34
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    26
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    34
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    28
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    26
+                ]
+            }
+        }
+    },
+    "call": {
+        "document_frequency": 5,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    36
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    35
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    36
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    35
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    35
+                ]
+            }
+        }
+    },
+    "show": {
+        "document_frequency": 5,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    37
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    36
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    37
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    36
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    36
+                ]
+            }
+        }
+    },
+    "info": {
+        "document_frequency": 5,
+        "documents": {
+            "10": {
+                "frequency": 1,
+                "positions": [
+                    39
+                ]
+            },
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    38
+                ]
+            },
+            "1004": {
+                "frequency": 1,
+                "positions": [
+                    39
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    38
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    38
+                ]
+            }
+        }
+    },
+    "wc": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    1
+                ]
+            }
+        }
+    },
+    "67": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            }
+        }
+    },
+    "49": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    3
+                ]
+            }
+        }
+    },
+    "000": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    4
+                ]
+            }
+        }
+    },
+    "outdoor": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    10
+                ]
+            }
+        }
+    },
+    "set": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 2,
+                "positions": [
+                    11,
+                    14
+                ]
+            }
+        }
+    },
+    "double": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    12
+                ]
+            }
+        }
+    },
+    "1": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    13
+                ]
+            }
+        }
+    },
+    "lounger": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 2,
+                "positions": [
+                    15,
+                    16
+                ]
+            }
+        }
+    },
+    "made": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    17
+                ]
+            }
+        }
+    },
+    "18": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            }
+        }
+    },
+    "gauge": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    19
+                ]
+            }
+        }
+    },
+    "m.": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    20
+                ]
+            }
+        }
+    },
+    "frame": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 2,
+                "positions": [
+                    21,
+                    29
+                ]
+            }
+        }
+    },
+    "pe": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    22
+                ]
+            }
+        }
+    },
+    "rattan": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    23
+                ]
+            }
+        }
+    },
+    "metal": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    24
+                ]
+            }
+        }
+    },
+    "tank": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    26
+                ]
+            }
+        }
+    },
+    "powder": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    27
+                ]
+            }
+        }
+    },
+    "coated": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    28
+                ]
+            }
+        }
+    },
+    "high": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    30
+                ]
+            }
+        }
+    },
+    "density": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    31
+                ]
+            }
+        }
+    },
+    "polyethylene": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    32
+                ]
+            }
+        }
+    },
+    "hdpe": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    33
+                ]
+            }
+        }
+    },
+    "wicker": {
+        "document_frequency": 1,
+        "documents": {
+            "100": {
+                "frequency": 1,
+                "positions": [
+                    34
+                ]
+            }
+        }
+    },
+    "27": {
+        "document_frequency": 2,
+        "documents": {
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    4
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    4
+                ]
+            }
+        }
+    },
+    "c4c": {
+        "document_frequency": 2,
+        "documents": {
+            "1000": {
+                "frequency": 3,
+                "positions": [
+                    6,
+                    10,
+                    20
+                ]
+            },
+            "1006": {
+                "frequency": 3,
+                "positions": [
+                    6,
+                    10,
+                    20
+                ]
+            }
+        }
+    },
+    "enroll": {
+        "document_frequency": 2,
+        "documents": {
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            }
+        }
+    },
+    "certified": {
+        "document_frequency": 2,
+        "documents": {
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    23
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    23
+                ]
+            }
+        }
+    },
+    "study": {
+        "document_frequency": 4,
+        "documents": {
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    28
+                ]
+            },
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    32
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    30
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    28
+                ]
+            }
+        }
+    },
+    "material": {
+        "document_frequency": 3,
+        "documents": {
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    29
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    31
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    29
+                ]
+            }
+        }
+    },
+    "placment": {
+        "document_frequency": 2,
+        "documents": {
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    30
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    30
+                ]
+            }
+        }
+    },
+    "classes": {
+        "document_frequency": 3,
+        "documents": {
+            "1000": {
+                "frequency": 1,
+                "positions": [
+                    34
+                ]
+            },
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    34
+                ]
+            },
+            "1006": {
+                "frequency": 1,
+                "positions": [
+                    34
+                ]
+            }
+        }
+    },
+    "9": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    2
+                ]
+            }
+        }
+    },
+    "22": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    4
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    4
+                ]
+            }
+        }
+    },
+    "full": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 5,
+                "positions": [
+                    5,
+                    15,
+                    23,
+                    36,
+                    59
+                ]
+            },
+            "1003": {
+                "frequency": 6,
+                "positions": [
+                    5,
+                    15,
+                    24,
+                    30,
+                    42,
+                    50
+                ]
+            }
+        }
+    },
+    "stack": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 5,
+                "positions": [
+                    6,
+                    16,
+                    24,
+                    37,
+                    60
+                ]
+            },
+            "1003": {
+                "frequency": 6,
+                "positions": [
+                    6,
+                    16,
+                    25,
+                    31,
+                    43,
+                    51
+                ]
+            }
+        }
+    },
+    "java": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 4,
+                "positions": [
+                    7,
+                    17,
+                    38,
+                    61
+                ]
+            },
+            "1003": {
+                "frequency": 5,
+                "positions": [
+                    7,
+                    17,
+                    32,
+                    44,
+                    52
+                ]
+            }
+        }
+    },
+    "developer": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 5,
+                "positions": [
+                    8,
+                    18,
+                    25,
+                    39,
+                    62
+                ]
+            },
+            "1003": {
+                "frequency": 5,
+                "positions": [
+                    8,
+                    18,
+                    26,
+                    33,
+                    53
+                ]
+            }
+        }
+    },
+    "help": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    21
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    21
+                ]
+            }
+        }
+    },
+    "boost": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    22
+                ]
+            }
+        }
+    },
+    "profession": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    26
+                ]
+            }
+        }
+    },
+    "design": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    27
+                ]
+            }
+        }
+    },
+    "highly": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    28
+                ]
+            }
+        }
+    },
+    "web": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 2,
+                "positions": [
+                    29,
+                    51
+                ]
+            }
+        }
+    },
+    "scalable": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    30
+                ]
+            }
+        }
+    },
+    "programs": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    31
+                ]
+            }
+        }
+    },
+    "including": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    42
+                ]
+            }
+        }
+    },
+    "servlets": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    43
+                ]
+            }
+        }
+    },
+    "hibernate": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    44
+                ]
+            }
+        }
+    },
+    "spring": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    45
+                ]
+            }
+        }
+    },
+    "boot": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    46
+                ]
+            }
+        }
+    },
+    "angular": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    47
+                ]
+            }
+        }
+    },
+    "jsps": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    48
+                ]
+            }
+        }
+    },
+    "well": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    49
+                ]
+            }
+        }
+    },
+    "mvc": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    50
+                ]
+            }
+        }
+    },
+    "services": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    52
+                ]
+            }
+        }
+    },
+    "soa": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    53
+                ]
+            }
+        }
+    },
+    "information": {
+        "document_frequency": 1,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    54
+                ]
+            }
+        }
+    },
+    "simplilearn": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    57
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    48
+                ]
+            }
+        }
+    },
+    "certification": {
+        "document_frequency": 2,
+        "documents": {
+            "1002": {
+                "frequency": 1,
+                "positions": [
+                    63
+                ]
+            },
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    54
+                ]
+            }
+        }
+    },
+    "improve": {
+        "document_frequency": 1,
+        "documents": {
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    22
+                ]
+            }
+        }
+    },
+    "objective": {
+        "document_frequency": 1,
+        "documents": {
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    36
+                ]
+            }
+        }
+    },
+    "individuals": {
+        "document_frequency": 1,
+        "documents": {
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    38
+                ]
+            }
+        }
+    },
+    "ready": {
+        "document_frequency": 1,
+        "documents": {
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    40
+                ]
+            }
+        }
+    },
+    "expertise": {
+        "document_frequency": 1,
+        "documents": {
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    41
+                ]
+            }
+        }
+    },
+    "development": {
+        "document_frequency": 1,
+        "documents": {
+            "1003": {
+                "frequency": 1,
+                "positions": [
+                    45
+                ]
+            }
+        }
+    },
+    "ewm": {
+        "document_frequency": 1,
+        "documents": {
+            "1005": {
+                "frequency": 3,
+                "positions": [
+                    6,
+                    9,
+                    20
+                ]
+            }
+        }
+    },
+    "get": {
+        "document_frequency": 1,
+        "documents": {
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    18
+                ]
+            }
+        }
+    },
+    "expert": {
+        "document_frequency": 1,
+        "documents": {
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    23
+                ]
+            }
+        }
+    },
+    "trainers": {
+        "document_frequency": 1,
+        "documents": {
+            "1005": {
+                "frequency": 1,
+                "positions": [
+                    24
                 ]
             }
         }

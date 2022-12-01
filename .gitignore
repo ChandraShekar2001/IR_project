@@ -2,5 +2,10 @@ dataset
 test.py
 2-gram-permuterms.json
 3-gram-permuterms.json
+query_vectors.json
+doc_vectors.json
+idf_values.json
+query_info.json
 positional_index.json
-query_vector.json
+similarity_coefficients.json
+tf_values.json

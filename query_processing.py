@@ -8,7 +8,7 @@ ps = PorterStemmer()
 stopwords = set(stopwords.words('english'))
 
 f = open('positional_index.json', 'r')
-index = json.load(f)
+positional_index = json.load(f)
 f.close()
 
 n = int(input('Enter the Previously entered value of n: '))
@@ -52,47 +52,57 @@ def permuterm_of_wildcard(word):
     else: 
         i = word.find('*')
         w1 = '$' + word[0:i]
-        w2 = word[i+1:-1] + '$'
+        w2 = word[i+1:] + '$'
         return merge(processing(w1), processing(w2))
-    
+        
 
-def get_query_info(posting_keys, query):
-
-    query_info = list()
-
-    for word in query:
-        if word in stopwords:
-            continue
-        else:
-            word = ps.stem(word)
-            if word in posting_keys:
-                query_info.append(word)
-
-    return query_info
-    
-
-# Query vectorization
+# Query term vectorization
 
 query_vector = []
 
+permu_query_vector = dict()
+
+permuterm_vector = list()
+
 for word in query:
+    
+    word = word.lower()
+
     if word in stopwords:
-        print('{} word is stopword'.format(word))
         continue
 
     if '*' in word:
         words = permuterm_of_wildcard(word)
         words.sort()
-        for word in words:
-            query_vector.append(word)
+        permuterm_vector = words
+        query_vector.append('#')
 
     else: 
         # word = ps.stem(word)
-        if word in index.keys():
+        if word in positional_index.keys():
             query_vector.append(word)
 
-with open('query_vector.json', 'w', encoding='utf-8') as file: 
-    json.dump(query_vector,file,indent=2)
+try: 
+    i = query_vector.index('#')
+except:
+    i = -1       
+
+if i != -1:
+    for word in permuterm_vector:
+        query_vector[i] = word
+        print(query_vector)
+        permu_query_vector.append(query_vector)
+        print(permu_query_vector)
+        i += 1
+else: 
+    # permu_query_vector.append(query_vector)
+    permu_query_vector[0] = (query_vector)
+    print('hello')
+            
+
+
+with open('query_info.json', 'w', encoding='utf-8') as file: 
+    json.dump(permu_query_vector,file,indent=2)
     file.close()
 
-print("Query Vector :", query_vector)
+# print("Query Vector :", query_vector)

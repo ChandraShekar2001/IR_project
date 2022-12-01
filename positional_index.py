@@ -16,7 +16,7 @@ pattern = re.compile(r'''(?x)([A-Z]\.)+|[\$|Rs]?\d+(\.\d+)?%?|\w+''', re.VERBOSE
 files = os.listdir()
 index = dict()
 
-for i in range(0, 1):
+for i in range(0, 10):
     docId = files[i].split(".")[0]
     file = open(files[i], 'r', encoding = 'utf8')
     words = pattern.finditer(file.read())
@@ -27,7 +27,7 @@ for i in range(0, 1):
         word = word.group()
         word = word.lower()
 
-        if words in stopwords:
+        if word in stopwords:
             continue
         if word in document.keys():
             document[word]['frequency'] +=1
