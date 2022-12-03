@@ -90,6 +90,7 @@ def get_similarity_coeff():
     similarity_coefficients = dict()
     sim_coeff = dict()
     sim_coeff_array = dict()
+    ranking = dict()
 
     # print(query_vectors["0"])
 
@@ -104,6 +105,7 @@ def get_similarity_coeff():
         # for query in query_vectors.keys():
         sim_coeff_array['0'] = sim_coeff
     
+        ranking["0"] = list(sim_coeff_array["0"][i][0] for i in range(10))[:10]  #Working code for getting 1st 10 relevent docs. -----------------------------------
     
     else:
         for query in query_vectors.keys():
@@ -115,9 +117,24 @@ def get_similarity_coeff():
         
             sim_coeff_array[query] = sim_coeff[:]
 
+            # ranking[query] = list(sim_coeff_array[query].keys())[0:10]
+            # ranking[query] = {k: sim_coeff_array[k] for k in list(sim_coeff_array[query])[:10]}
+            # ranking[query] = {sim_coeff_array[query][i][0] for i in range(10)}
+
+            ranking[str(query)] = list(sim_coeff_array[str(query)])[:10]
+
+
+
 
     # sim_coeff_array = dict(list(sim_coeff_array.items())[0:10])
-    ranking = dict(itertools.islice(sim_coeff_array.items(), 10))
+
+    # ranking = dict(list(sim_coeff_array.items())[0:10])
+
+    # ranking = {sim_coeff_array["0"][i] for i in range(10)}
+
+    # print(ranking[i] for i in query_vectors.keys())
+
+    print(ranking['0'])
 
     with open('similarity_coefficients.json', 'w', encoding='utf-8') as file:
         # json.dump(sim_coeff_array, file, indent=4)
