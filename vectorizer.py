@@ -18,6 +18,10 @@ f = open('query_info.json','r')
 query_info = json.load(f)
 f.close()
 
+f = open('idf_values.json','r')
+idf_values = json.load(f)
+f.close()
+
 
 documents_count = (len([name 
 for name in os.listdir('.\dataset') 
@@ -38,8 +42,9 @@ def get_idf_values():
         json.dump(idf_vals, file, indent=4)
         file.close()
 
-    return(idf_vals)
+    # return(idf_vals)
 
+get_idf_values()
 
 def get_tf_values(word):
 
@@ -56,16 +61,16 @@ def get_tf_values(word):
         tf_value = math.log2(freq)
         tf_values[key] = tf_value + 1
 
-    with open('tf_values.json', 'w', encoding='utf-8') as file:
-        json.dump(tf_values, file, indent=4)
-        file.close()
+    # with open('tf_values.json', 'w', encoding='utf-8') as file:
+    #     json.dump(tf_values, file, indent=4)
+    #     file.close()
     
     return tf_values
 
 
 def get_tf_idf_value(word, doc_id):
 
-    idf_values = get_idf_values()
+    # idf_values
     tf_values = get_tf_values(word)
 
     # print(tf_values[doc_id])
@@ -125,8 +130,9 @@ def get_query_vector(query):
         tf_query[word] = math.log2(index[word]) + 1
         
 
-    idf_values = get_idf_values()
+    # idf_values = get_idf_values()
 
+    
 
     for word in sorted(positional_index.keys()):
         if word in query:
@@ -160,7 +166,7 @@ def get_doc_vector_matrix():
 
     doc_vector_matrix = dict()
 
-    for i in range(0, 10):
+    for i in range(0, documents_count):
         doc_id = files[i].split('.')[0]
         file = open(files[i], 'r', encoding = 'utf8')
         words = pattern.finditer(file.read())
@@ -237,10 +243,10 @@ def get_similarity_coeff():
 
 
     with open('similarity_coefficients.json', 'w', encoding='utf-8') as file:
-        json.dump(sim_coeff_array, file, indent=4)
+        json.dump(sim_coeff_array[0:10], file, indent=4)
         # json.dump(similarity_coefficients, file, indent=4)
         file.close()
 
 
         
-get_similarity_coeff()
+get_doc_vector_matrix()

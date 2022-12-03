@@ -16,7 +16,7 @@ pattern = re.compile(r'''(?x)([A-Z]\.)+|[\$|Rs]?\d+(\.\d+)?%?|\w+''', re.VERBOSE
 files = os.listdir()
 index = dict()
 
-for i in range(0, 10):
+for i in range(0, len(files)):
     docId = files[i].split(".")[0]
     file = open(files[i], 'r', encoding = 'utf8')
     words = pattern.finditer(file.read())
