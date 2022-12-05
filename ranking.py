@@ -14,6 +14,10 @@ f = open('idf_values.json','r')
 idf_values = json.load(f)
 f.close()
 
+f = open('relevance_feedback.json','r')
+relevance_feedback = json.load(f)
+f.close()
+
 
 def get_query_vector(query):
 
@@ -97,8 +101,10 @@ def get_similarity_coeff():
 # Current code -------------------------------------------------
     if len(query_vectors) == 1:
         for docId in doc_vectors.keys():
-            # if str(docId) in doc_vectors.keys():
-            similarity_coefficients[str(docId)] = cosine_similarity(query_vectors['0'], doc_vectors[docId])
+            if str(docId) in relevance_feedback["0"].keys():
+                similarity_coefficients[str(docId)] = cosine_similarity(query_vectors['0'], doc_vectors[docId])  + (0.05 * relevance_feedback['0'][str(docId)]) 
+            else:
+                similarity_coefficients[str(docId)] = cosine_similarity(query_vectors['0'], doc_vectors[docId]) # + (0.05 * relevance_feedback['0'][str(docId)]) 
     
         sim_coeff = sorted(similarity_coefficients.items(), key=lambda x:x[1], reverse=True)
         
@@ -111,7 +117,11 @@ def get_similarity_coeff():
         for query in query_vectors.keys():
 
             for docId in doc_vectors.keys():
-                similarity_coefficients[str(docId)] = cosine_similarity(query_vectors[query], doc_vectors[docId])
+                if str(docId) in relevance_feedback[query].keys():
+                    similarity_coefficients[str(docId)] = cosine_similarity(query_vectors[query], doc_vectors[docId])  + (0.05 * relevance_feedback[query][docId])
+                else: 
+                    similarity_coefficients[str(docId)] = cosine_similarity(query_vectors[query], doc_vectors[docId]) # + (0.05 * relevance_feedback[query][docId])
+
             
             sim_coeff = sorted(similarity_coefficients.items(), key=lambda x:x[1], reverse=True)
         

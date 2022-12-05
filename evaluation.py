@@ -12,6 +12,8 @@ results = json.load(f)
 f.close()
 
 # for key in results.keys():
+    # docs = results[key]
+    # len = len(docs)
 
 docs = results["0"]
 len = len(docs)
@@ -30,8 +32,30 @@ for j in range(len):
     if i == 1:
         total_relevant += 1
         eval.append(1)
+        # eval[str(docs[j])] = 1
     else: 
         eval.append(0)
+        # eval[str(docs[j])] = 0
+
+# eval = [1,1,1,0,0,1,0,0,1,0]
+
+
+relevance = dict()
+eval_dict = dict()
+
+for j in range(len):
+    eval_dict[str(docs[j])] = eval[j]
+    relevance["0"] = dict(eval_dict.items())
+
+# eval = [0,0,0,0,0,0,0,0,0,0]
+
+# for j in range(len):
+#     eval_dict[str(docs[j])] = eval[j]
+#     relevance["1"] = dict(eval_dict.items())
+
+with open('relevance_feedback.json', 'w', encoding='utf-8') as file:
+        json.dump(relevance, file, indent=4)
+        file.close()
 
 print("\n")
 
