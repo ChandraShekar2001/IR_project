@@ -9,3 +9,4 @@ query_info.json
 positional_index.json
 similarity_coefficients.json
 tf_values.json
+relevance_feedback.json
